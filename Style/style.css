@@ -1,0 +1,14 @@
+h1{
+    color: lightseagreen;
+    font-size: 40px;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+#dropMenu{
+    float: left;
+    position: realtive;
+    top: 40px;
+
+}
